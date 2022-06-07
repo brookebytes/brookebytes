@@ -1,6 +1,5 @@
-<div align="center">
 <h1 align="center">Hi 👋, I'm Brooke</h1>
-<h3 align="center">A software engineer from the DMV, USA.</h3>
+<h3 align="center">A software engineer from the Washington, D.C. area</h3>
 
 <p align="left"> <a href="https://twitter.com/brookebytes" target="blank"><img src="https://img.shields.io/twitter/follow/brookebytes?logo=twitter&style=for-the-badge" alt="brookebytes" /></a> </p>
 
@@ -12,7 +11,7 @@
 
 - ⚡ Fun fact **I enjoy rollerskating in my free time!**
 
-<h3>Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brookebytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brookebytes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brooke-redden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brooke-redden" height="30" width="40" /></a>
@@ -24,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brookebytes&show_icons=true&title_color=1abaff&bg_color=d1f1ff&locale=en&layout=compact" alt="brookebytes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brookebytes&theme=default" alt="brookebytes" /></p>
-<div align="center">
