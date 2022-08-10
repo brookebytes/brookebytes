@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brooke</h1>
 <h3 align="center">A software engineer from the Washington, D.C. area</h3>
 
-<div align="center">
+<p align="left"> <a href="https://twitter.com/brookebytes" target="blank"><img src="https://img.shields.io/twitter/follow/brookebytes?logo=twitter&style=for-the-badge" alt="brookebytes" /></a> </p>
 
  🔭 I’m currently working on **building an API.**
 
@@ -11,6 +11,7 @@
 
  ⚡ Fun fact **I enjoy rollerskating in my free time!**
 
+<div align="center">
 <h3>Connect with me:</h3>
 <p>
 <a href="https://twitter.com/brookebytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brookebytes" height="30" width="40" /></a>
@@ -23,4 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brookebytes&show_icons=true&title_color=1abaff&bg_color=d1f1ff&locale=en&layout=compact" alt="brookebytes" /></p>
 </div>
 
-<p align="center"> <a href="https://twitter.com/brookebytes" target="blank"><img src="https://img.shields.io/twitter/follow/brookebytes?logo=twitter&style=for-the-badge" alt="brookebytes" /></a> </p>
