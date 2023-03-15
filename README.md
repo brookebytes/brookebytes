@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brooke</h1>
 <h3 align="center">A software engineer from the Washington, D.C. area</h3>
 
-
-- 🔭 I’m currently working on **building an API.**
-
 - 🌱 I’m currently learning **Node.js.**
 
 - 📫 Reach me **at any of social media links**
