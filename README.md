@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brooke</h1>
-<p align="center">A software engineer from the Washington, D.C. area</p>
+<img src="githubbanner.png">
 
 <div align="center">
 <h3>Connect with me:</h3>
